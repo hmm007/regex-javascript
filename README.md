@@ -26,41 +26,41 @@ multiline input
 
 #Meta & Shorthand Characters
 
-##^ 	
+###^ 	
 /^anyword/ 	start with
-##$ 	
+###$ 	
 /anyword$/ end with
-##* 	
+###* 	
 /anyword*/ 	
-##+ 	
+###+ 	
 /anyword+/ 	
-##? 	
+###? 	
 /anyword?/ 	
-##. 	
+###. 	
 /.anyword/ 	
-##\ 	
+###\ 	
 /4\.0/ 	
-##(...) 	
+###(...) 	
 /(anyword) \1's/ 	
-##(?:...) 	
+###(?:...) 	
 /(?:anyword) \1's/ 	
-##(?=...) 	
+###(?=...) 	
 /anyword(?='s)/ 
-##(?!...) 	
+###(?!...) 	
 /anyword(?!'s)/ 	
-##...|... 	
+###...|... 	
 /anyword|anyword/ 	
-##{...} 	
+###{...} 	
 /anyword{2}/ 	
-##{...,} 	
+###{...,} 	
 /anyword{2,}/ 	
-##{...,...} 	
+###{...,...} 	
 /anyword{2,4}/ 	 
-##[...] 	
+###[...] 	
 /[anyword]|[anyword]/ 
-##[...-...] 	
+###[...-...] 	
 /[a-z]|[0-9]/ 	
-##[^...] 	
+###[^...] 	
 /[^a-z]/ 	
 
 ##Shorthands
