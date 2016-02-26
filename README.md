@@ -14,3 +14,9 @@ A String method that tests for a match in a string. It returns the index of the 
 A String method that executes a search for a match in a string, and replaces the matched substring with a replacement substring.
 ##split 	
 A String method that uses a regular expression or a fixed string to break a string into an array of substrings.
+
+#Flag
+
+###g  global matching 	
+###i 	ignore case 	
+###m 	multiline input 	
