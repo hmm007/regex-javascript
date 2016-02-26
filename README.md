@@ -17,6 +17,9 @@ A String method that uses a regular expression or a fixed string to break a stri
 
 #Flag
 
-###g  global matching 	
-###i 	ignore case 	
-###m 	multiline input 	
+###g  
+global matching 	
+###i 	
+ignore case 	
+###m 	
+multiline input 	
