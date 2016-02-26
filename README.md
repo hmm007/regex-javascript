@@ -32,11 +32,11 @@ multiline input
 /anyword$/ end with
 ##* 	
 /anyword*/ 	
-+ 	
-	/anyword+/ 	
-? 	
+##+ 	
+/anyword+/ 	
+##? 	
 /anyword?/ 	
-. 	
+##. 	
 /.anyword/ 	
 \ 	
 /4\.0/ 	
